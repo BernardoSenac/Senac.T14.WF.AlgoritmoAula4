@@ -3,7 +3,7 @@
  - Operadores lógicos
  - Operadores numéricos
  - Palavras chave
- - Estrutura de projeto windows forms
+ - Estrutura de projeto Windows Forms
 
    ```csharp 
    bool contaPaga = true;
