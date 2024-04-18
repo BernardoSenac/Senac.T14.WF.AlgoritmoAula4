@@ -4,7 +4,10 @@
  - Operadores numéricos
  - Palavras chave
  - Estrutura de projeto Windows Forms
-
+  
+    Abaixo um exemplo de operador lógico
+    
+    em c#
    ```csharp 
    bool contaPaga = true;
    if(contaPaga){
